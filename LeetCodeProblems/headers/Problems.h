@@ -18,19 +18,19 @@ public:
     vector<int> twoSum(vector<int>& nums, int target);
 
     /**
-    * 7. Reverse Integer
+    * 2. Add Two Numbers
     *
     */
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2);
 
     /**
-    * 7. Reverse Integer
+    * 2. Add Two Numbers Variant
     *
     */
     ListNode* addTwoNumbersVariant(ListNode* l1, ListNode* l2);
 
     /**
-    * 2. Add Two Numbers
+    * 7. Reverse Integer
     *
     */
     int reverse(int x);
